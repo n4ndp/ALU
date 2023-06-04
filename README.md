@@ -1,5 +1,6 @@
 # **ALU-verilog**
-Arithmetic Logic Unit implementation with verilog
+
+Implementación de la Unidad Aritmético-Lógica (ALU) con Verilog
 
 ## **Referencias**
 
