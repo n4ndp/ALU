@@ -1,7 +1,7 @@
 # **ALU-verilog**
 
-Implementación de la Unidad Aritmético-Lógica (ALU) con Verilog
+Implementation of the Arithmetic Logic Unit (ALU) using Verilog
 
-## **Referencias**
+## **References**
 
 - Harris, D., & Harris, S. L. (2015). Digital Design and Computer Architecture: ARM Edition. Morgan Kaufmann Publishers.
